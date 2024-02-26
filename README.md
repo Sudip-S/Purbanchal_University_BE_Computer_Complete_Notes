@@ -26,10 +26,10 @@ We encourage contributions from fellow students to enhance the repository. If yo
 We welcome contributions from the community to make this repository a valuable resource for everyone. To contribute, follow these steps:
 
 -Fork the repository.
--Create a new branch for your contributions.
--Make your changes and commit them with clear messages.
--Open a pull request, detailing the changes you've made.
--Please adhere to our code of conduct during the contribution process.
+-Create a new branch for your contributions.  
+-Make your changes and commit them with clear messages.  
+-Open a pull request, detailing the changes you've made.  
+-Please adhere to our code of conduct during the contribution process.  
 
 #### License
 This repository is licensed under the MIT License. By contributing to this repository, you agree that your contributions will be licensed under the MIT License.
